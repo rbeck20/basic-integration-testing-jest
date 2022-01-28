@@ -1,5 +1,7 @@
 BECK Rémi
 
+Git bash dans le bin de mongo :  ./mongod --dbpath=/c/Users/remiB/data
+
 # Basic integration testing with Jest
 
 L'application MyTodos est une bête application fournissant un début d'API REST pour gérer des entrées d'une *TODO list*.
